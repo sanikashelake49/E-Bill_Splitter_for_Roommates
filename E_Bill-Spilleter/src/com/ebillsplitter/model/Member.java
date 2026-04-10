@@ -11,7 +11,7 @@ public class Member {
 	public Member(int id,String name) {
 		super();
 	 	this.id=id;
-		this.name=name;
+	 	this.name=name;
 	}
 	
 	public int getId() {
