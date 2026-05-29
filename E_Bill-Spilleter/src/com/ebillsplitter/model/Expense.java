@@ -3,7 +3,7 @@ package com.ebillsplitter.model;
 public class Expense {
    private int id;
    private String description;
-   private double amount;
+   private double amount;  
    private int paidBy;
 public Expense() {
 	super();
